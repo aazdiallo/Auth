@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "firebase": "^7.3.0",
+    "firebase": "^10.9.0",
     "jshint": "^2.10.3",
     "jshit": "0.0.1",
     "react": "^16.11.0",
